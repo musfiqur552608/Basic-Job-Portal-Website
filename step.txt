@@ -1,0 +1,14 @@
+1. Create an virtual environment
+2. Activate virtual environment
+3. Install Django
+4. Create a django project
+5. Go to the project
+6. Create a new app
+7. Register your app to settings
+8. Create model for job and job application
+9. Migrate the models
+10. Create forms (JobForms, ApplicationsForms)
+11. works with views
+12. Make urls
+13. Create tamplates
+14. Register tamplates folder on settings
